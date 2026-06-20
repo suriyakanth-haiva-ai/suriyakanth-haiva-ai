@@ -1,5 +1,2 @@
-# Haiva AI
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haiva-ai&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haiva-ai&layout=compact&hide_border=true)
+![Repos](https://img.shields.io/badge/Repositories-30-blue)
+![Stars](https://img.shields.io/github/stars/haiva-ai?style=social)
